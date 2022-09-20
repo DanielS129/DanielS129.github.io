@@ -4,6 +4,12 @@ body {
 #me_teamworks{
   float: right;
 }
+#volleyball{
+  float:left;
+}
+#soccerball{
+  float:center;
+}
 #abme_background{
   background-image: url('skybluebackground.jpg');
 }
