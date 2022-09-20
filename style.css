@@ -4,3 +4,6 @@ body {
 #me_teamworks{
   float: right;
 }
+#abme_background{
+  background-image: url('skybluebackground.jpg');
+}
